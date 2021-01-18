@@ -2,7 +2,7 @@
 
 Me messing around with kubernetes for the first time.
 This is for me as a cheat sheet when i get confused about things, otherwise has no value whatsoever :)
-
+If you really, really want to see whats going on, see it in "Raw View" in github.
 
 # Cheat sheet for myself
 
