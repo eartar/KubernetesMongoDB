@@ -1,5 +1,10 @@
 # KubernetesMongoDB
 
+Me messing around with kubernetes for the first time.
+This is for me as a cheat sheet when i get confused about things, otherwise has no value whatsoever :)
+
+
+# Cheat sheet for myself
 
 kubectl get services
 
